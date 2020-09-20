@@ -1,0 +1,86 @@
+
+inventory
+target
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# IntelliJ #
+############
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.rpm
+*.tgz
+*.war
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+
+# TerraForm #
+#############
+*.tfstate
+*.tfstate.backup
+
+# Node #
+########
+node_modules/
+npm-debug.log
+
+# Vagrant #
+###########
+.vagrant/
+
+# Python #
+##########
+__pycache__/
+
+# Pyenv #
+#########
+.python-version
+app_migration.out
+
+# Ansible #
+###########
+main.retry
+
+# VM #
+################
+vagrant.key
+*.vdi*
+properties.txt
+password.txt
+secrets.txt
+
