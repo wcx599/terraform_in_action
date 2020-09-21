@@ -10,3 +10,4 @@ variable "env" {}
 
 variable "domain" {}
 
+variable "availability_zones" {}

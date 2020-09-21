@@ -1,6 +1,7 @@
 
 inventory
 target
+.terraform
 
 # Compiled source #
 ###################

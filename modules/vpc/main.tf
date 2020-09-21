@@ -27,5 +27,3 @@ resource "aws_default_route_table" "main-route-table" {
   }
 }
 
-
-
