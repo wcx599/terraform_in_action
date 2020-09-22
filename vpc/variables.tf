@@ -22,3 +22,6 @@ variable "region" {
   default = "ap-northeast-1"
 }
 
+variable "availability_zones" {
+  default = ["ap-northeast-1a", "ap-northeast-2a"]
+}
